@@ -1,2 +1,1 @@
-# balanceMe
-hold the curser in motion status  to operating a ball
+increment when tap icon
